@@ -1,0 +1,3 @@
+This is a new line in myfile.txt
+Adding another line.
+This is a new line.
