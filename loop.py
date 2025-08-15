@@ -67,3 +67,42 @@ a = 0
 while a <= 5:
     print(f"Current value of a: {a}")
     a += 1
+
+
+
+new_number = 50
+
+while new_number >= 2:
+    if new_number % 2 == 0:
+        new_number /= 2
+    else:
+        new_number = (new_number * 3) + 1
+    print(f"Current value of new_number: {new_number}")
+
+
+for i in range(1, 11):
+    pass
+
+for j in range(1, 6):
+    if j % 2 == 0:
+        break
+    else:
+        print(f"Inner loop iteration: {j}")
+        continue
+    
+
+print("End of loops.")
+
+
+nmh = 1
+
+while nmh <= 20:
+    if nmh % 3 == 0 and nmh % 5 == 0:
+        print(f"value: {nmh} hiphop")
+    elif nmh % 3 == 0:
+        print(f"value: {nmh} hip")
+    elif nmh % 5 == 0:
+        print(f"value: {nmh} hop")
+    else:
+        print(nmh)
+    nmh += 1
