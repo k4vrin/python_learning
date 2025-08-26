@@ -1,0 +1,5 @@
+setup.py
+kavlibrary.egg-info/PKG-INFO
+kavlibrary.egg-info/SOURCES.txt
+kavlibrary.egg-info/dependency_links.txt
+kavlibrary.egg-info/top_level.txt

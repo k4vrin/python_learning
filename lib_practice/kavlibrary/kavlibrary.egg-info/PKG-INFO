@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: kavlibrary
+Version: 0.1.0
+Summary: A simple book management library
+Author: Mostafa Hosseini
+Requires-Python: >=3.8
